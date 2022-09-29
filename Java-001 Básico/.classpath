@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="treinoPratico/src"/>
+	<classpathentry kind="src" path="treinoPraticoPOO/src"/>
+	<classpathentry kind="src" path="treinoPraticoPOO2/src"/>
+	<classpathentry kind="src" path="Checklist_Estatic/src"/>
+	<classpathentry kind="src" path="Checklist_Estatic2"/>
+	<classpathentry kind="src" path="Checklist_Estatic3/src"/>
+	<classpathentry kind="src" path="exercicioEstatic1/src"/>
+	<classpathentry kind="src" path="Apurando_Construtor/src"/>
+	<classpathentry kind="src" path="Apurando_Construtor_Sobrecarga/src"/>
+	<classpathentry kind="src" path="Encapsulamento/src"/>
+	<classpathentry kind="src" path="exercicioConstrutor_Sobrecarga_Encapsulamento/src"/>
+	<classpathentry kind="src" path="Vetores/Primitivo"/>
+	<classpathentry kind="src" path="Vetores2/Classe"/>
+	<classpathentry kind="src" path="Vetores/exercicios_Primitivo"/>
+	<classpathentry kind="src" path="Vetores/exercicio/_Classe"/>
+	<classpathentry kind="src" path="List/src"/>
+	<classpathentry kind="src" path="ExercicioList"/>
+	<classpathentry kind="src" path="ExercicioMatriz/src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="treinoPratico/bin"/>
+</classpath>
