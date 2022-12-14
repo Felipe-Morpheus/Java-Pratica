@@ -47,12 +47,12 @@ public class Pedido {
 		this.status = status;
 	}
 
+	//to.String
 	@Override
 	public String toString() {
 		return "Pedido [id=" + id + ", momento=" + momento + ", status=" + status + "]";
 	}
 	
-	//to.String
 	
 
 	
