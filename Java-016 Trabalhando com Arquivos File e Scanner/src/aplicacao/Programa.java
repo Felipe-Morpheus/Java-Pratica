@@ -7,7 +7,7 @@ import java.util.Scanner;
 public class Programa {
 
 	public static void main(String[] args) {
-		// Cria-se um objeto do tipo file, e instancie ele colocando dentro do parametro
+		// Cria-se um objeto do tipo file/arquivo, e instancie ele colocando dentro do parametro
 		// o caminho do arquivo desejado.
 		// Ele irá encapsular o processo de acesso ao arquivo
 		File file = new File("c:\\temp\\in.txt");

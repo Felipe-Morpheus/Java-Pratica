@@ -14,6 +14,9 @@ public class Programa {
 
 		try {
 			// Stream, sequencia de leitura a partir deste caminho
+			//O bufferedreader é instanciado a partir do firereadr como uma abstração maior. 
+			//(paga-se a stream basica e partir dela pega o buffer)
+			//Usa-se o buffer pra deixar a leitura mais rapida
 			fr = new FileReader(path);
 			br = new BufferedReader(fr);
 
