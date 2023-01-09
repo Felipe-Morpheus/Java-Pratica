@@ -1,3 +1,7 @@
+/*
+ * Em programação funcional, expressão lambda corresponde a uma função anônima de primeira classe
+ */
+
 package application;
 
 import java.util.ArrayList;
@@ -35,6 +39,8 @@ public class Program {
 		 3. Por último é possível realocar toda a expressão lambda e diretamente dentro do argumento sort: 
 		 list.sort(expressao lambda);
 		 */
+		
+		//deduzir que os tipos dentro de sort são de outra classe chama-se inferência de tipos
 		list.sort((p1, p2) -> p1.getName().toUpperCase().compareTo(p2.getName().toUpperCase()));
 
 		for (Product p : list) {
